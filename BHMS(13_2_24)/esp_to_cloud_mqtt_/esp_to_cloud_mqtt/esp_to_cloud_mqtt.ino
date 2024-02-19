@@ -13,7 +13,7 @@ const char* tbServer = "demo.thingsboard.io";
 const int tbPort = 1883;
 const char* tbToken = "CwhObfCS6EyMRQMWwFZc";
 
-// MQTT topics
+// MQTT topic
 const char* tbTopic = "v1/devices/me/telemetry";
 
 // Initialize WiFi and MQTT client
